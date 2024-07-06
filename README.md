@@ -1,3 +1,4 @@
+![alt text](https://github.com/YieldingData/Ingot-Work/blob/6e7d236a1911219d66529c7e45e87bb51f35a280/designs/logos/Ingot%20Works%20.png)
 # Ingot Works
 
 Welcome to Ingot Works, a makerspace dedicated to fostering creativity, innovation, and collaboration. Our mission is to provide a space where individuals can come together to share knowledge, learn new skills, and bring their ideas to life.
