@@ -9,10 +9,7 @@ Ingot Works is a makerspace designed to foster creativity, innovation, and colla
 
 </details>
 
-## Mission and Vision Statements
-
-<details>
-<summary>Mission and Vision Statements</summary>
+## [Mission and Vision Statements](vision_mission.md)
 
 ### Mission Statement
 Our mission is to provide a space where individuals can come together to share knowledge, learn new skills, and bring their ideas to life.
