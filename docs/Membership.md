@@ -6,7 +6,7 @@
 - **Price**: $1,000/year (or 1.5% of yearly salary, through the Angel Day program.)
 - **Benefits**:
   - Unlimited classes
-  - Full access to all facilities (including fermentation and printing facilities)
+  - Full access to all facilities
   - Highest priority for tool reservations and usage
   - Full access to all tools, including advanced and specialty tools
   - Priority booking for events and workshops
