@@ -56,7 +56,7 @@ Ingot Works will be managed by a board of directors and a dedicated team of staf
 
 </details>
 
-## [Membership](docs/membership.md)
+## [Membership](/membership.md)
 
 ## Marketing and Sales Strategy
 
