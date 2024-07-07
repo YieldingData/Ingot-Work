@@ -1,5 +1,3 @@
-# Define the content for the updated business_plan.md file with drop-downs and links
-updated_business_plan_content = """
 # Business Plan
 
 ## Executive Summary
