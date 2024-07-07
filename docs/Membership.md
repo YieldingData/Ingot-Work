@@ -15,7 +15,7 @@
   - Exclusive access to member-only events
   - **Locker space**
 
-#### Silver Semi-Annual Membership
+#### Silver Bi-Annual Membership
 - **Price**: $600/6 months
 - **Benefits**:
   - 3 classes per month
