@@ -2,6 +2,8 @@
 
 ### Membership Plans
 
+- **Payment Plans**: Daily, Bi-weekly, Bi-monthly, Monthly, or Yearly
+
 #### Gold Annual Membership
 - **Price**: $1,000/year (or 1.5% of yearly salary, through the Angel Day program.)
 - **Benefits**:
@@ -38,5 +40,3 @@
   - Access to all facilities on the day of the pass
   - Lowest priority for tool reservations and usage
   - Access to basic tools only
-
-- **Payment Plans**: Daily, Bi-weekly, Bi-monthly, Monthly, or Yearly
