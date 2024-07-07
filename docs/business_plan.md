@@ -61,7 +61,7 @@ Ingot Works will be managed by a board of directors and a dedicated team of staf
 <details>
 <summary>Membership Plans</summary>
 
-@include /membership.md
+@include docs/membership.md
 
 </details>
 
