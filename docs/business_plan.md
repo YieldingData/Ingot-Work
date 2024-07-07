@@ -125,13 +125,3 @@ Based on our revenue and expense projections, we expect to achieve profitability
 - Market research data
 
 </details>
-"""
-
-# Define the file path
-file_path = "/mnt/data/business_plan.md"
-
-# Write the updated content to the file
-with open(file_path, "w") as file:
-    file.write(updated_business_plan_content)
-
-file_path
